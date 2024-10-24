@@ -1,0 +1,24 @@
+.login-button-area{
+    align-items: center;
+}
+
+.login-form{
+    width: 100%;
+      
+  }
+  .login-area{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    max-width: 550px;
+  }
+
+.button-color{
+  background-color: #243279;
+  border:#243279;
+}
+
+.button-color:hover{
+  background-color:#525E9C;
+}
