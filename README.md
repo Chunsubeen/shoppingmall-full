@@ -1,6 +1,8 @@
-![스크린샷 2024-10-24 011209](https://github.com/user-attachments/assets/10f469bb-88c6-462a-88dc-87b7814856f3)
-![스크린샷 2024-10-24 005336](https://github.com/user-attachments/assets/e43715e6-8397-4f77-b9ef-e1ffe3de5daa)
-![스크린샷 2024-10-24 005352](https://github.com/user-attachments/assets/599741b9-c7be-4b44-b633-a1594efb11c4)
+![스크린샷 2024-10-24 011209](https://github.com/user-attachments/assets/c4a781bc-ed4c-4ca2-b37d-c00c36994dd4)
+![스크린샷 2024-10-24 005336](https://github.com/user-attachments/assets/8fdc0c3c-8b87-41fd-b5f0-fc7f6a96e0c1)
+![스크린샷 2024-10-24 005352](https://github.com/user-attachments/assets/fe6c930a-3625-486a-b109-05ebf67fbfcd)
+
+
 
 Demo:https://scintillating-nasturtium-87553b.netlify.app/
 
